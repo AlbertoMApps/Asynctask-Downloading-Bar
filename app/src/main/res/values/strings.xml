@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SlindenerdMultithreadingExerciseDowloading</string>
+    <array name="urls">
+        <item>Image1</item>
+        <item>Image2</item>
+        <item>Image3</item>
+        <item>Image4</item>
+    </array>
+    <array name="imageUrls">
+        <item>http://lapizzamecanica.com/wp-content/uploads/camiseta-super-raton-no-job-too-small-200x200.jpg</item>
+        <item>https://image.freepik.com/foto-gratis/vaso-de-vino-blanco--vidrio--copa-de-vino--botella-de-vino-tinto_3342497.jpg</item>
+        <item>http://thumbs.dreamstime.com/z/wine-wineglass-bottle-2149795.jpg</item>
+        <item>http://www.elhatillo.es/media/wysiwyg/vino_1.jpg</item>
+    </array>
+</resources>
